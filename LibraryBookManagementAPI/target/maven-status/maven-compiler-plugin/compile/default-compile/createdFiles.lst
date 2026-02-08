@@ -1,0 +1,3 @@
+com\example\model\library\Book.class
+com\example\controller\library\BookController.class
+com\example\LibraryBookManagementApiApplication.class
